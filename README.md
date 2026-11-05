@@ -1,6 +1,6 @@
 # Rafael Gomes
 
-Front-end sênior. Hoje nos canais digitais da Cielo, a maior adquirente de pagamentos da América Latina.
+Front-end sênior, trabalho com Angular e React. Hoje nos canais digitais da Cielo, a maior adquirente de pagamentos da América Latina.
 
 Passei o último ano colocando agentes de IA para trabalhar dentro do ciclo de engenharia: revisão de código, documentação e testes E2E com Playwright navegando na aplicação real. Fora do trabalho, construo produto de ponta a ponta.
 
