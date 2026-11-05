@@ -6,6 +6,15 @@ Passei o último ano colocando agentes de IA para trabalhar dentro do ciclo de e
 
 ---
 
+## Foco atual
+
+- **Agentes de IA no ciclo de engenharia:** revisão de código, documentação e testes E2E conduzidos por agentes, hoje com Claude Code.
+- **Testes E2E e qualidade:** Playwright navegando na aplicação real, Jasmine e SonarQube.
+- **Produtos com IA em produção:** geração por IA sempre com schema estruturado e validação programática antes de persistir.
+- **Apps mobile-first** publicados nas lojas, de ponta a ponta.
+
+---
+
 ## Gamora
 
 **App de estudo com repetição espaçada e IA.** Publicado na App Store e no Google Play, em português, inglês e espanhol.
@@ -17,6 +26,16 @@ Construí sozinho, de ponta a ponta: interface, dados, integração com APIs de 
 `Angular 19` `TypeScript` `Firebase` `Firestore` `APIs de IA` `mobile-first`
 
 [gamora.app](https://gamora.app) · [App Store](https://apps.apple.com/us/app/gamora-study-cards/id6757342477) · [Google Play](https://play.google.com/store/apps/details?id=com.gamora.flashcards)
+
+---
+
+## Primal Gestão
+
+**O caderno do negócio, no WhatsApp.** Pequenos empreendedores registram venda, gasto e compromisso por texto, áudio ou foto da nota. O sistema devolve o que entendeu e só grava depois da confirmação, avisa na hora de cobrar e mostra tudo organizado em um app mobile-first.
+
+Em piloto, construído com um sócio. Decisões de produto que tomei: nada é gravado a partir de áudio ou foto sem confirmação, dinheiro não se apaga, corrige-se com estorno, e cada empresa só enxerga os próprios dados.
+
+https://primalgestao.com.br
 
 ---
 
