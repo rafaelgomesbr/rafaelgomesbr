@@ -4,14 +4,20 @@ Front-end sênior. Hoje nos canais digitais da Cielo, a maior adquirente de paga
 
 Passei o último ano colocando agentes de IA para trabalhar dentro do ciclo de engenharia: revisão de código, documentação e testes E2E com Playwright navegando na aplicação real. Fora do trabalho, construo produto de ponta a ponta.
 
+Hoje trabalho com IA do planejamento à entrega: uso agentes e skills para planejar, desenhar, implementar, testar e revisar, e mantenho a decisão de arquitetura e a responsabilidade pelo resultado comigo.
+
 ---
 
-## Foco atual
+## Foco atual: IA de ponta a ponta
 
-- **Agentes de IA no ciclo de engenharia:** revisão de código, documentação e testes E2E conduzidos por agentes, hoje com Claude Code.
-- **Testes E2E e qualidade:** Playwright navegando na aplicação real, Jasmine e SonarQube.
-- **Produtos com IA em produção:** geração por IA sempre com schema estruturado e validação programática antes de persistir.
-- **Apps mobile-first** publicados nas lojas, de ponta a ponta.
+- **Planejamento:** uso IA para quebrar escopo, levantar riscos e montar o plano antes de tocar no código.
+- **Arquitetura:** a decisão é minha; a IA explora alternativas e mapeia o impacto no código real.
+- **Desenvolvimento com agentes:** Claude Code operando o ciclo em mudanças pequenas e incrementais, sem refatoração fora do escopo.
+- **Agentes e skills de IA:** skills e agentes configurados para tarefas repetíveis do dia a dia de engenharia.
+- **Testes E2E:** agentes escrevendo e rodando Playwright contra a aplicação real, além de Jasmine e SonarQube.
+- **Revisão de código e documentação:** feitas por agentes.
+- **Segurança:** resposta de IA nunca é confiada só ao prompt; schema estruturado e validação programática antes de persistir.
+- **Produtos com IA:** Gamora, com cards gerados por IA e repetição espaçada, e Primal Gestão, com áudio e foto interpretados por IA e confirmados antes de gravar.
 
 ---
 
